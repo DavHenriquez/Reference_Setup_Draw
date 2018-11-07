@@ -10,4 +10,5 @@ line(mouseX,mouseY,250,250);
 line(mouseX,mouseY,80,80);
 line(mouseX,mouseY,90,400);
 fill(0);
-rect(mouseX,mouseY,250,250);}
+rect(mouseX,mouseY,250,250);
+}
